@@ -1,0 +1,12 @@
+.underline{
+    text-decoration: underline;
+}
+.overline{
+    text-decoration: overline;
+}
+.lineth{
+    text-decoration: line-through;
+}
+.none{
+    text-decoration: none;
+}

@@ -1,0 +1,38 @@
+.d1 {
+  background-color: black;
+  height: 1470px;
+  width: 1570px;
+}
+
+.d2 {
+  color: aliceblue;
+  background-color: brown;
+}
+.d3 {
+  color: blueviolet;
+  background-color: bisque;
+}
+.d4 {
+  background-color: aliceblue;
+  margin-left: 50px;
+  height: 1170px;
+  width: 1270px;
+}
+
+#A1 img {
+  height: 350px;
+  width: 500px;
+  border: 3px solid gray;
+  margin-left: 10px;
+}
+
+#A2 img {
+  height: 250px;
+  width: 300px;
+  border: 3px solid gray;
+  margin-left: 10px;
+  display: inline;
+}
+.d6 {
+  margin-left: 50px;
+}

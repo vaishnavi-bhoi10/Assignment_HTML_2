@@ -1,0 +1,9 @@
+p{
+    border: dashed 2.5px black;
+    padding: 10px;
+    transition: background-color 1.5s ease;
+}
+
+p:hover{
+    background-color: grey;
+}

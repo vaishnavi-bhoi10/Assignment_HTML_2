@@ -1,0 +1,12 @@
+p{
+font-size: 16px;
+text-align: justify;
+color: brown;
+}
+.container{
+width: 75%;
+padding: 18px;
+border: 2px solid #ccc;
+margin: 18px auto;
+background-color: #f9f9f9;
+}
